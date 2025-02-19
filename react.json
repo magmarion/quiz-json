@@ -1,34 +1,41 @@
 {
-    "react": [
+    "response_code": 0,
+    "results": [
         {
+            "category": "React",
+            "type": "multiple",
+            "difficulty": "easy",
             "question": "What is the primary purpose of React?",
-            "options": [
+            "correct_answer": "Managing state and building UIs",
+            "incorrect_answers": [
                 "Styling web pages",
-                "Managing state and building UIs",
                 "Handling databases",
                 "Server-side rendering only"
-            ],
-            "answer": "Managing state and building UIs"
+            ]
         },
         {
+            "category": "React",
+            "type": "multiple",
+            "difficulty": "easy",
             "question": "What is a React component?",
-            "options": [
+            "correct_answer": "A reusable piece of UI",
+            "incorrect_answers": [
                 "A database",
-                "A reusable piece of UI",
                 "An API endpoint",
                 "A CSS file"
-            ],
-            "answer": "A reusable piece of UI"
+            ]
         },
         {
+            "category": "React",
+            "type": "multiple",
+            "difficulty": "easy",
             "question": "Which hook is used for managing state in a functional component?",
-            "options": [
+            "correct_answer": "useState",
+            "incorrect_answers": [
                 "useEffect",
-                "useState",
                 "useContext",
                 "useRef"
-            ],
-            "answer": "useState"
+            ]
         }
     ]
 }
