@@ -1,0 +1,34 @@
+{
+    "react": [
+        {
+            "question": "What is the primary purpose of React?",
+            "options": [
+                "Styling web pages",
+                "Managing state and building UIs",
+                "Handling databases",
+                "Server-side rendering only"
+            ],
+            "answer": "Managing state and building UIs"
+        },
+        {
+            "question": "What is a React component?",
+            "options": [
+                "A database",
+                "A reusable piece of UI",
+                "An API endpoint",
+                "A CSS file"
+            ],
+            "answer": "A reusable piece of UI"
+        },
+        {
+            "question": "Which hook is used for managing state in a functional component?",
+            "options": [
+                "useEffect",
+                "useState",
+                "useContext",
+                "useRef"
+            ],
+            "answer": "useState"
+        }
+    ]
+}

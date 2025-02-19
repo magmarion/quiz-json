@@ -1,0 +1,54 @@
+{
+    "astronomy": [
+        {
+            "question": "What is the closest star to Earth (other than the Sun)?",
+            "options": [
+                "Alpha Centauri A",
+                "Alpha Centauri B",
+                "Proxima Centauri",
+                "Betelgeuse"
+            ],
+            "answer": "Proxima Centauri"
+        },
+        {
+            "question": "What is the name of the first human-made object to leave the solar system?",
+            "options": [
+                "Voyager 1",
+                "Apollo 11",
+                "Hubble Space Telescope",
+                "Pioneer 10"
+            ],
+            "answer": "Voyager 1"
+        },
+        {
+            "question": "What is the name of the largest moon of Saturn?",
+            "options": [
+                "Titan",
+                "Ganymede",
+                "Europa",
+                "Enceladus"
+            ],
+            "answer": "Titan"
+        },
+        {
+            "question": "Which planet has the longest day?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Earth",
+                "Jupiter"
+            ],
+            "answer": "Venus"
+        },
+        {
+            "question": "What is the name of the most famous red supergiant star in the night sky?",
+            "options": [
+                "Aldebaran",
+                "Betelgeuse",
+                "Antares",
+                "Arcturus"
+            ],
+            "answer": "Betelgeuse"
+        }
+    ]
+}
