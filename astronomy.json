@@ -1,54 +1,154 @@
 {
-    "astronomy": [
+    "questions": [
         {
-            "question": "What is the closest star to Earth (other than the Sun)?",
+            "question": "What is the closest planet to the Sun?",
             "options": [
-                "Alpha Centauri A",
-                "Alpha Centauri B",
-                "Proxima Centauri",
-                "Betelgeuse"
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Mars"
             ],
-            "answer": "Proxima Centauri"
+            "correctOption": 0
         },
         {
-            "question": "What is the name of the first human-made object to leave the solar system?",
+            "question": "Which planet is known as the Red Planet?",
             "options": [
-                "Voyager 1",
-                "Apollo 11",
-                "Hubble Space Telescope",
-                "Pioneer 10"
+                "Mercury",
+                "Venus",
+                "Mars",
+                "Jupiter"
             ],
-            "answer": "Voyager 1"
+            "correctOption": 2
         },
         {
-            "question": "What is the name of the largest moon of Saturn?",
+            "question": "What is the largest planet in our solar system?",
             "options": [
-                "Titan",
-                "Ganymede",
-                "Europa",
-                "Enceladus"
+                "Earth",
+                "Jupiter",
+                "Saturn",
+                "Neptune"
             ],
-            "answer": "Titan"
+            "correctOption": 1
         },
         {
-            "question": "Which planet has the longest day?",
+            "question": "What is the name of the galaxy that contains our Solar System?",
+            "options": [
+                "Milky Way",
+                "Andromeda",
+                "Triangulum",
+                "Whirlpool"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "What is a light year?",
+            "options": [
+                "A measure of time",
+                "A measure of distance",
+                "A measure of mass",
+                "A measure of speed"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Which planet is famous for its spectacular ring system?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Which celestial objects are often described as 'dirty snowballs'?",
+            "options": [
+                "Comets",
+                "Asteroids",
+                "Meteors",
+                "Dwarf planets"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "What is the term for a star that explodes and dramatically increases in brightness?",
+            "options": [
+                "Nova",
+                "Supernova",
+                "Pulsar",
+                "Quasar"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What force keeps the planets in orbit around the Sun?",
+            "options": [
+                "Electromagnetic force",
+                "Gravity",
+                "Nuclear force",
+                "Inertia"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Which planet is known for its striking blue color and strong winds?",
             "options": [
                 "Venus",
                 "Mars",
-                "Earth",
-                "Jupiter"
+                "Neptune",
+                "Mercury"
             ],
-            "answer": "Venus"
+            "correctOption": 2
         },
         {
-            "question": "What is the name of the most famous red supergiant star in the night sky?",
+            "question": "What is the phenomenon called when the Moon blocks the Sun?",
             "options": [
-                "Aldebaran",
-                "Betelgeuse",
-                "Antares",
-                "Arcturus"
+                "Lunar eclipse",
+                "Solar eclipse",
+                "Transit",
+                "Occultation"
             ],
-            "answer": "Betelgeuse"
+            "correctOption": 1
+        },
+        {
+            "question": "What is the most abundant element in stars?",
+            "options": [
+                "Oxygen",
+                "Carbon",
+                "Hydrogen",
+                "Helium"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "Which planet currently has the most confirmed moons?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "correctOption": 3
+        },
+        {
+            "question": "What is the term for a rocky body orbiting the Sun, commonly found in the asteroid belt?",
+            "options": [
+                "Comet",
+                "Meteor",
+                "Asteroid",
+                "Satellite"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "What was the name of the first artificial satellite launched into space?",
+            "options": [
+                "Apollo 11",
+                "Sputnik",
+                "Voyager 1",
+                "Hubble"
+            ],
+            "correctOption": 1
         }
     ]
 }
