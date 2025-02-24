@@ -139,6 +139,16 @@
                 "It’s just another type of CSS"
             ],
             "correctOption": 2
+        },
+        {
+            "question": "What is the purpose of React’s useCallback hook?",
+            "options": [
+                "To prevent re-creating functions on every render",
+                "To optimize performance by memoizing values",
+                "To handle asynchronous operations",
+                "To manage form inputs"
+            ],
+            "correctOption": 0
         }
     ]
 }
