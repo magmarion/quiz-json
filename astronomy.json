@@ -74,11 +74,11 @@
             "question": "Which space mission was the first to land a human on the Moon?",
             "options": [
                 "Apollo 13",
-                "Apollo 11",
                 "Gemini 12",
-                "Soyuz 2"
+                "Apollo 11",
+                "Sputnik 1"
             ],
-            "correctOption": 1
+            "correctOption": 2
         },
         {
             "question": "Which celestial object is at the center of the Milky Way galaxy?",

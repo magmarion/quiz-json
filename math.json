@@ -5,7 +5,7 @@
             "options": [
                 "ax^2 + bx + c = 0",
                 "x^2 + y^2 = r^2",
-                "y = mx + c",
+                "y = kx + m",
                 "F = ma"
             ],
             "correctOption": 2
@@ -17,16 +17,6 @@
                 "36",
                 "48",
                 "54"
-            ],
-            "correctOption": 0
-        },
-        {
-            "question": "What is the general equation for a circle with center at the origin?",
-            "options": [
-                "x² + y² = r²",
-                "ax² + bx + c = 0",
-                "y = mx + b",
-                "A = πr²"
             ],
             "correctOption": 0
         },
@@ -43,10 +33,20 @@
         {
             "question": "What is the value of Avogadro's constant?",
             "options": [
-                "6.022 × 10^23",
                 "3.141 × 10^6",
+                "6.022 × 10^23",
                 "1.602 × 10^-19",
                 "2.718"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What is the general equation for a circle with center at the origin?",
+            "options": [
+                "x² + y² = r²",
+                "ax² + bx + c = 0",
+                "y = mx + b",
+                "A = πr²"
             ],
             "correctOption": 0
         },
