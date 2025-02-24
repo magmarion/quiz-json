@@ -1,154 +1,164 @@
 {
     "questions": [
         {
-            "question": "What is the closest planet to the Sun?",
+            "question": "What does AU stand for in astronomical measurements?",
             "options": [
-                "Mercury",
-                "Venus",
-                "Earth",
-                "Mars"
-            ],
-            "correctOption": 0
-        },
-        {
-            "question": "Which planet is known as the Red Planet?",
-            "options": [
-                "Mercury",
-                "Venus",
-                "Mars",
-                "Jupiter"
-            ],
-            "correctOption": 2
-        },
-        {
-            "question": "What is the largest planet in our solar system?",
-            "options": [
-                "Earth",
-                "Jupiter",
-                "Saturn",
-                "Neptune"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "What is the name of the galaxy that contains our Solar System?",
-            "options": [
-                "Milky Way",
-                "Andromeda",
-                "Triangulum",
-                "Whirlpool"
-            ],
-            "correctOption": 0
-        },
-        {
-            "question": "What is a light year?",
-            "options": [
-                "A measure of time",
-                "A measure of distance",
-                "A measure of mass",
-                "A measure of speed"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "Which planet is famous for its spectacular ring system?",
-            "options": [
-                "Jupiter",
-                "Saturn",
-                "Uranus",
-                "Neptune"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "Which celestial objects are often described as 'dirty snowballs'?",
-            "options": [
-                "Comets",
-                "Asteroids",
-                "Meteors",
-                "Dwarf planets"
-            ],
-            "correctOption": 0
-        },
-        {
-            "question": "What is the term for a star that explodes and dramatically increases in brightness?",
-            "options": [
-                "Nova",
-                "Supernova",
-                "Pulsar",
-                "Quasar"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "What force keeps the planets in orbit around the Sun?",
-            "options": [
-                "Electromagnetic force",
-                "Gravity",
-                "Nuclear force",
-                "Inertia"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "Which planet is known for its striking blue color and strong winds?",
-            "options": [
-                "Venus",
-                "Mars",
-                "Neptune",
-                "Mercury"
-            ],
-            "correctOption": 2
-        },
-        {
-            "question": "What is the phenomenon called when the Moon blocks the Sun?",
-            "options": [
-                "Lunar eclipse",
-                "Solar eclipse",
-                "Transit",
-                "Occultation"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "What is the most abundant element in stars?",
-            "options": [
-                "Oxygen",
-                "Carbon",
-                "Hydrogen",
-                "Helium"
-            ],
-            "correctOption": 2
-        },
-        {
-            "question": "Which planet currently has the most confirmed moons?",
-            "options": [
-                "Earth",
-                "Mars",
-                "Jupiter",
-                "Saturn"
+                "Absolute Unit",
+                "Angular Unit",
+                "Aerial Unit",
+                "Astronomical Unit"
             ],
             "correctOption": 3
         },
         {
-            "question": "What is the term for a rocky body orbiting the Sun, commonly found in the asteroid belt?",
+            "question": "Which space probe is currently the farthest from Earth?",
             "options": [
-                "Comet",
-                "Meteor",
-                "Asteroid",
-                "Satellite"
+                "Voyager 1",
+                "Parker Solar Probe",
+                "New Horizons",
+                "Juno"
             ],
-            "correctOption": 2
+            "correctOption": 0
+        },
+        {
+            "question": "What is the term for the hypothetical boundary around a black hole beyond which nothing can escape?",
+            "options": [
+                "Event horizon",
+                "Photon sphere",
+                "Singularity",
+                "Schwarzschild radius"
+            ],
+            "correctOption": 0
         },
         {
             "question": "What was the name of the first artificial satellite launched into space?",
             "options": [
                 "Apollo 11",
-                "Sputnik",
                 "Voyager 1",
-                "Hubble"
+                "Sputnik",
+                "Voyager 2"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "What is the name of the largest known star?",
+            "options": [
+                "Betelgeuse",
+                "Sirius A",
+                "UY Scuti",
+                "Alpha Centauri"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "What is the Kuiper Belt?",
+            "options": [
+                "A region beyond Neptune filled with asteroids",
+                "A galaxy near the Milky Way",
+                "A region within the asteroid belt",
+                "A type of comet"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Which planet has the longest day (rotation period) in the solar system?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mercury",
+                "Neptune"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Which space mission was the first to land a human on the Moon?",
+            "options": [
+                "Apollo 13",
+                "Apollo 11",
+                "Gemini 12",
+                "Soyuz 2"
             ],
             "correctOption": 1
+        },
+        {
+            "question": "Which celestial object is at the center of the Milky Way galaxy?",
+            "options": [
+                "A neutron star",
+                "A black hole",
+                "A pulsar",
+                "A red giant"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Which of the following is the name of NASA's most recent Mars rover?",
+            "options": [
+                "Curiosity",
+                "Perseverance",
+                "Opportunity",
+                "Spirit"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What is the current distance of Voyager 1 from Earth?",
+            "options": [
+                "12 million kilometers",
+                "500 million kilometers",
+                "Over 22 billion kilometers",
+                "Over 50 billion kilometers"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "What is the primary fuel for the Sun's fusion process?",
+            "options": [
+                "Hydrogen",
+                "Helium",
+                "Oxygen",
+                "Carbon"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "What is the name of the first exoplanet discovered?",
+            "options": [
+                "Kepler-186f",
+                "51 Pegasi b",
+                "Proxima Centauri b",
+                "Gliese 581g"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What is the phenomenon where a star suddenly increases in brightness?",
+            "options": [
+                "Supernova",
+                "Nova",
+                "Quasar",
+                "Pulsar"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Which space telescope has provided the most detailed images of distant galaxies?",
+            "options": [
+                "Hubble Space Telescope",
+                "James Webb Space Telescope",
+                "Chandra X-ray Observatory",
+                "Spitzer Space Telescope"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "What is the largest known galaxy in the universe?",
+            "options": [
+                "Andromeda",
+                "NGC 6872",
+                "Milky Way",
+                "IC 1101"
+            ],
+            "correctOption": 3
         }
     ]
 }

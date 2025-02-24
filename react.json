@@ -1,154 +1,144 @@
 {
     "questions": [
         {
-            "question": "Which is the most popular JavaScript framework?",
+            "question": "Which feature of React allows components to update without reloading the entire page?",
             "options": [
-                "Angular",
-                "React",
-                "Svelte",
-                "Vue"
-            ],
-            "correctOption": 1
-        },
-        {
-            "question": "Which company invented React?",
-            "options": [
-                "Google",
-                "Apple",
-                "Netflix",
-                "Facebook"
-            ],
-            "correctOption": 3
-        },
-        {
-            "question": "What's the fundamental building block of React apps?",
-            "options": [
-                "Components",
-                "Blocks",
-                "Elements",
-                "Effects"
-            ],
-            "correctOption": 0
-        },
-        {
-            "question": "What's the name of the syntax we use to describe the UI in React components?",
-            "options": [
-                "FBJ",
-                "Babel",
-                "JSX",
-                "ES2015"
-            ],
-            "correctOption": 2
-        },
-        {
-            "question": "How does data flow naturally in React apps?",
-            "options": [
-                "From parents to children",
-                "From children to parents",
-                "Both ways",
-                "The developers decides"
-            ],
-            "correctOption": 0
-        },
-        {
-            "question": "How to pass data into a child component?",
-            "options": [
+                "Virtual DOM",
                 "State",
-                "Props",
-                "PropTypes",
-                "Parameters"
+                "Context API",
+                "Hooks"
             ],
-            "correctOption": 1
+            "correctOption": 0
         },
         {
-            "question": "When to use derived state?",
-            "options": [
-                "Whenever the state should not trigger a re-render",
-                "Whenever the state can be synchronized with an effect",
-                "Whenever the state should be accessible to all components",
-                "Whenever the state can be computed from another state variable"
-            ],
-            "correctOption": 3
-        },
-        {
-            "question": "What triggers a UI re-render in React?",
-            "options": [
-                "Running an effect",
-                "Passing props",
-                "Updating state",
-                "Adding event listeners to DOM elements"
-            ],
-            "correctOption": 2
-        },
-        {
-            "question": "When do we directly \"touch\" the DOM in React?",
-            "options": [
-                "When we need to listen to an event",
-                "When we need to change the UI",
-                "When we need to add styles",
-                "Almost never"
-            ],
-            "correctOption": 3
-        },
-        {
-            "question": "In what situation do we use a callback to update state?",
-            "options": [
-                "When updating the state will be slow",
-                "When the updated state is very data-intensive",
-                "When the state update should happen faster",
-                "When the new state depends on the previous state"
-            ],
-            "correctOption": 3
-        },
-        {
-            "question": "If we pass a function to useState, when will that function be called?",
-            "options": [
-                "On each re-render",
-                "Each time we update the state",
-                "Only on the initial render",
-                "The first time we update the state"
-            ],
-            "correctOption": 2
-        },
-        {
-            "question": "Which hook to use for an API request on the component's initial render?",
+            "question": "What is the React Hook that allows you to manage side effects in functional components?",
             "options": [
                 "useState",
                 "useEffect",
-                "useRef",
+                "useContext",
                 "useReducer"
             ],
             "correctOption": 1
         },
         {
-            "question": "Which variables should go into the useEffect dependency array?",
+            "question": "Which React lifecycle method is used for cleanup when a component is removed from the DOM?",
             "options": [
-                "Usually none",
-                "All our state variables",
-                "All state and props referenced in the effect",
-                "All variables needed for clean up"
+                "componentDidUpdate",
+                "componentWillUnmount",
+                "componentDidMount",
+                "shouldComponentUpdate"
             ],
-            "correctOption": 2
+            "correctOption": 1
         },
         {
-            "question": "An effect will always run on the initial render.",
+            "question": "How do you pass data from a parent component to a child in React?",
             "options": [
-                "True",
-                "It depends on the dependency array",
-                "False",
-                "In depends on the code in the effect"
+                "Props",
+                "State",
+                "Events",
+                "Context API"
             ],
             "correctOption": 0
         },
         {
-            "question": "When will an effect run if it doesn't have a dependency array?",
+            "question": "What makes React’s Context API different from Redux?",
             "options": [
-                "Only when the component mounts",
-                "Only when the component unmounts",
-                "The first time the component re-renders",
-                "Each time the component is re-rendered"
+                "Context API is simpler and less boilerplate",
+                "Redux is faster than Context API",
+                "Context API stores data globally",
+                "Redux does not require a provider"
             ],
-            "correctOption": 3
+            "correctOption": 0
+        },
+        {
+            "question": "Which of these React features helps you reuse component logic across different components?",
+            "options": [
+                "Render Props",
+                "Higher-Order Components",
+                "useState Hook",
+                "useEffect Hook"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What happens if you change a state in React without using setState or its equivalent?",
+            "options": [
+                "The UI won’t re-render",
+                "The state will reset to the initial value",
+                "The component will update immediately",
+                "It will cause an error"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "What is the primary purpose of the React useMemo hook?",
+            "options": [
+                "To optimize component re-renders by memoizing expensive computations",
+                "To keep track of previous state values",
+                "To create reusable components",
+                "To handle asynchronous operations"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "When should you use React’s useReducer instead of useState?",
+            "options": [
+                "When the state logic is complex and depends on previous state",
+                "When you need to optimize performance",
+                "When your state is only a single value",
+                "When you need global state management"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "What feature in React makes it efficient for dynamic user interfaces?",
+            "options": [
+                "Component-based architecture",
+                "Two-way data binding",
+                "Virtual DOM",
+                "Event-driven model"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "Which of these is used to handle form inputs in React in a controlled way?",
+            "options": [
+                "useEffect",
+                "useRef",
+                "State",
+                "Event handlers"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "How can you optimize the rendering of a large list of items in React?",
+            "options": [
+                "By using a single component",
+                "By using windowing or virtualization techniques",
+                "By using useMemo",
+                "By using conditional rendering"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What is the best way to handle errors in React components?",
+            "options": [
+                "Using try-catch blocks",
+                "Using error boundaries",
+                "Using useEffect with a catch block",
+                "Using the setState method"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "What’s the significance of React’s JSX syntax?",
+            "options": [
+                "It’s a type of HTML used by React",
+                "It allows React to run in the browser",
+                "It’s JavaScript that looks like HTML for easier rendering",
+                "It’s just another type of CSS"
+            ],
+            "correctOption": 2
         }
     ]
 }
